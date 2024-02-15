@@ -3,7 +3,7 @@
 ## Data 
 -> Contains all the datasets used to train the model<br>
 -> Also contains some files necessary during running of API<br>
--> Note that modifiedURLdf.csv which has been used in TextModelTrainer.ipynb can be generated using preprocess.ipynb (it cant be uploaded as it was pretty large in size)
+-> Note that modifiedURLdf.csv which has been used in TextModelTrainer.ipynb can be generated using preprocess.ipynb (it cant be uploaded   as it was pretty large in size)
 
 ## Models
 -> Contains the models trained along with all of its versions<br>
